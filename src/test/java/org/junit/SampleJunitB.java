@@ -16,4 +16,7 @@ public class SampleJunitB {
 		System.out.println("tc3");
 
 	}
+	private void testingGit() {
+
+	}
 }
